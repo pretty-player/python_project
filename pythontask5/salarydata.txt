@@ -1,0 +1,10 @@
+Alice_Vance,Engineering,75000
+Bob_Smith,Sales,45000
+Charlie_Day,Marketing,52000
+Diana_Prince,Engineering,90000
+Edward_Norton,HR,48000
+Fiona_Gallagher,Sales,61000
+George_Costanza,Marketing,35000
+Hannah_Abbott,Engineering,50500
+Ian_Wright,HR,55000
+Julia_Roberts,Legal,120000

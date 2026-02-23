@@ -1,0 +1,11 @@
+Name,Department,Salary
+Alice Vance,Engineering,75000
+Bob Smith,Sales,45000
+Charlie Day,Marketing,52000
+Diana Prince,Engineering,90000
+Edward Norton,HR,48000
+Fiona Gallagher,Sales,61000
+George Costanza,Marketing,35000
+Hannah Abbott,Engineering,50500
+Ian Wright,HR,55000
+Julia Roberts,Legal,120000
